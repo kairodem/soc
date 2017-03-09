@@ -1,2 +1,2 @@
 # soc
-the ultimate social network
+Free, limitless social network.
